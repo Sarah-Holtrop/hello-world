@@ -1,3 +1,5 @@
+#These changes will add some design elements to the retroArcade game, like **~~// or some shit idk
+
 #Sarah Opalenik
 #Project 2
 #11/8/18
